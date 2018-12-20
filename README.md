@@ -22,4 +22,4 @@ You can play Winter Bird here: http://owom.io/froobit/winterbird/
 [Box2D](http://box2d.org/) - a popular C++ 2D rigid-body physics engine created by [Erin Catto](https://twitter.com/erin_catto)
 [Planck.js](https://github.com/shakiba/planck.js) - JavaScript rewrite of Box2D physics engine for cross-platform HTML5 game development
 ## License
-Froobit is available under [MIT license.](./LICENSE)
+This work is available under [MIT license.](./LICENSE)
