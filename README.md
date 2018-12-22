@@ -16,7 +16,7 @@ cd dist
 http-server -p 4000
 ```
 ## Live version
-You can play Winter Bird here: http://owom.io/froobit/winterbird/
+You can play Winter Bird here: https://r4nd0m7.itch.io/winterbird
 ## Credits
 [p5js](https://p5js.org/) - JavaScript library for creating graphic and interactive experiences, based on the core principles of Processing.
 [Box2D](http://box2d.org/) - a popular C++ 2D rigid-body physics engine created by [Erin Catto](https://twitter.com/erin_catto)
