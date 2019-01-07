@@ -1,7 +1,7 @@
 # winter-bird-game
 ![enter image description here](https://i.imgur.com/W3HbBvG.png)
 
-This is an example HTML5 game made with [Froobit JS](https://www.npmjs.com/package/froobit) framework. If you are interested in using Froobit Game to make your own Javascript/HTML5 games, code of this game can serve as a good starting point.
+This is an example HTML5 game made with [Froobit JS](https://www.npmjs.com/package/froobit) framework. If you are interested in using Froobit Game Framework to make your own Javascript/HTML5 games, code of this game can serve as a good starting point.
 ## Run game locally
 ```bash
 npm install
